@@ -1,0 +1,224 @@
+[
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/curlpp -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/utilspp -isystem /opt/homebrew/include -g -std=gnu++2b -arch arm64 -o CMakeFiles/github_activity.dir/src/main.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/main.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/main.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/CMakeFiles/github_activity.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/curlpp -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/utilspp -isystem /opt/homebrew/include -g -std=gnu++2b -arch arm64 -o CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/Easy.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Easy.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Easy.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/Easy.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/curlpp -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/utilspp -isystem /opt/homebrew/include -g -std=gnu++2b -arch arm64 -o CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/Exception.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Exception.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Exception.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/Exception.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/curlpp -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/utilspp -isystem /opt/homebrew/include -g -std=gnu++2b -arch arm64 -o CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/Form.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Form.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Form.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/Form.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/curlpp -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/utilspp -isystem /opt/homebrew/include -g -std=gnu++2b -arch arm64 -o CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/Info.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Info.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Info.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/Info.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/curlpp -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/utilspp -isystem /opt/homebrew/include -g -std=gnu++2b -arch arm64 -o CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/Multi.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Multi.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Multi.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/Multi.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/curlpp -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/utilspp -isystem /opt/homebrew/include -g -std=gnu++2b -arch arm64 -o CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/OptionBase.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/OptionBase.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/OptionBase.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/OptionBase.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/curlpp -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/utilspp -isystem /opt/homebrew/include -g -std=gnu++2b -arch arm64 -o CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/Options.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Options.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Options.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/Options.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/curlpp -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/utilspp -isystem /opt/homebrew/include -g -std=gnu++2b -arch arm64 -o CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/cURLpp.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/cURLpp.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/cURLpp.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/cURLpp.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/curlpp -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/utilspp -isystem /opt/homebrew/include -g -std=gnu++2b -arch arm64 -o CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/internal/CurlHandle.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/CurlHandle.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/CurlHandle.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/internal/CurlHandle.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/curlpp -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/utilspp -isystem /opt/homebrew/include -g -std=gnu++2b -arch arm64 -o CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionList.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionList.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionList.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionList.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/curlpp -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/utilspp -isystem /opt/homebrew/include -g -std=gnu++2b -arch arm64 -o CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionSetter.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionSetter.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionSetter.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionSetter.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/curlpp -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include/utilspp -isystem /opt/homebrew/include -g -std=gnu++2b -arch arm64 -o CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/internal/SList.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/SList.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/SList.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/CMakeFiles/github_activity.dir/src/vendor/curlpp-0.8.1/src/curlpp/internal/SList.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dcurlpp_EXPORTS -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -fPIC -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/Easy.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Easy.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Easy.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/Easy.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dcurlpp_EXPORTS -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -fPIC -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/Exception.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Exception.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Exception.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/Exception.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dcurlpp_EXPORTS -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -fPIC -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/Form.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Form.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Form.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/Form.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dcurlpp_EXPORTS -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -fPIC -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/Info.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Info.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Info.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/Info.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dcurlpp_EXPORTS -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -fPIC -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/Multi.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Multi.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Multi.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/Multi.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dcurlpp_EXPORTS -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -fPIC -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/OptionBase.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/OptionBase.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/OptionBase.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/OptionBase.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dcurlpp_EXPORTS -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -fPIC -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/Options.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Options.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Options.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/Options.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dcurlpp_EXPORTS -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -fPIC -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/cURLpp.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/cURLpp.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/cURLpp.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/cURLpp.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dcurlpp_EXPORTS -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -fPIC -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/internal/CurlHandle.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/CurlHandle.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/CurlHandle.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/internal/CurlHandle.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dcurlpp_EXPORTS -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -fPIC -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/internal/OptionList.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionList.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionList.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/internal/OptionList.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dcurlpp_EXPORTS -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -fPIC -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/internal/OptionSetter.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionSetter.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionSetter.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/internal/OptionSetter.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -Dcurlpp_EXPORTS -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -fPIC -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/internal/SList.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/SList.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/SList.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp.dir/src/curlpp/internal/SList.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/Easy.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Easy.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Easy.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/Easy.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/Exception.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Exception.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Exception.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/Exception.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/Form.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Form.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Form.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/Form.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/Info.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Info.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Info.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/Info.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/Multi.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Multi.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Multi.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/Multi.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/OptionBase.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/OptionBase.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/OptionBase.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/OptionBase.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/Options.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Options.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/Options.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/Options.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/cURLpp.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/cURLpp.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/cURLpp.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/cURLpp.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/internal/CurlHandle.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/CurlHandle.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/CurlHandle.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/internal/CurlHandle.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/internal/OptionList.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionList.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionList.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/internal/OptionList.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/internal/OptionSetter.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionSetter.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/OptionSetter.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/internal/OptionSetter.cpp.o"
+},
+{
+  "directory": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/include -g -std=c++11 -arch arm64 -o src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/internal/SList.cpp.o -c /Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/SList.cpp",
+  "file": "/Users/c2/Documents/PersonalProjects/github_user_activity/src/vendor/curlpp-0.8.1/src/curlpp/internal/SList.cpp",
+  "output": "/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/CMakeFiles/curlpp_static.dir/src/curlpp/internal/SList.cpp.o"
+}
+]

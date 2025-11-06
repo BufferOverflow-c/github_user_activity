@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/cmake_install.cmake",
+		"/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/cmake_install.cmake",
+		"/Users/c2/Documents/PersonalProjects/github_user_activity/cmake-build-debug/src/vendor/curlpp-0.8.1/extras/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
